@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>skilljar__All</fullName>
+    <columns>skilljar__Course_Title__c</columns>
+    <columns>skilljar__Domain__c</columns>
+    <columns>skilljar__Course_URL__c</columns>
+    <filterScope>Everything</filterScope>
+    <filters>
+        <field>skilljar__Live__c</field>
+        <operation>equals</operation>
+        <value>1</value>
+    </filters>
+    <label>All</label>
+</ListView>

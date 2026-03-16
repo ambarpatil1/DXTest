@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Validation Rule --></label>
+    <name>LeadOppScore__Validation_Rule__c</name>
+    <picklistValues>
+        <masterLabel>Email Exists</masterLabel>
+        <translation><!-- Email Exists --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Other</masterLabel>
+        <translation><!-- Other --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Phone Number Exists</masterLabel>
+        <translation><!-- Phone Number Exists --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Valid Email</masterLabel>
+        <translation><!-- Valid Email --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Valid Phone Number</masterLabel>
+        <translation><!-- Valid Phone Number --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

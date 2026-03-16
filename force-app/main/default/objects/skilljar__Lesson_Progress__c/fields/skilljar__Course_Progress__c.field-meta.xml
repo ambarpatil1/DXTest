@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>skilljar__Course_Progress__c</fullName>
+    <deleteConstraint>SetNull</deleteConstraint>
+    <deprecated>false</deprecated>
+    <label>Course Progress</label>
+    <referenceTo>skilljar__Course_Progress__c</referenceTo>
+    <relationshipLabel>Lesson Progresses</relationshipLabel>
+    <relationshipName>Lesson_Progresses</relationshipName>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Lookup</type>
+</CustomField>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>skilljar__Credit_Unit_Plural__c</fullName>
+    <deprecated>false</deprecated>
+    <description>Plural name of the type of credit earned.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>For example &quot;Hours&quot;, &quot;Credits&quot;, &quot;Units&quot;</inlineHelpText>
+    <label>Credit Unit Plural</label>
+    <length>255</length>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

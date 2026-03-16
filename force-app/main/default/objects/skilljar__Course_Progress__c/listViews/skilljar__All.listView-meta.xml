@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>skilljar__All</fullName>
+    <columns>skilljar__Published_Course__c</columns>
+    <columns>skilljar__Enrolled_At__c</columns>
+    <columns>skilljar__Completed_At__c</columns>
+    <columns>skilljar__Success_Status__c</columns>
+    <columns>skilljar__Completed_Lesson_Count__c</columns>
+    <columns>skilljar__Lesson_Count__c</columns>
+    <filterScope>Everything</filterScope>
+    <label>All</label>
+</ListView>

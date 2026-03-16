@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>skilljar__Promo_Code_Price__c</fullName>
+    <deprecated>false</deprecated>
+    <description>Price set by promo code, if one was used. Denormalized here in case code price changes.</description>
+    <label>Promo Code Price</label>
+    <precision>18</precision>
+    <required>false</required>
+    <scale>2</scale>
+    <trackTrending>false</trackTrending>
+    <type>Currency</type>
+</CustomField>

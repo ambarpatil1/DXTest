@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LeadOppScore__All</fullName>
+    <columns>NAME</columns>
+    <columns>LeadOppScore__Scoring_Criteria_Title__c</columns>
+    <columns>LeadOppScore__Active__c</columns>
+    <columns>LeadOppScore__Rule_Object__c</columns>
+    <columns>LeadOppScore__Field_Name__c</columns>
+    <columns>LeadOppScore__Operator__c</columns>
+    <columns>LeadOppScore__Rule_Score__c</columns>
+    <columns>LeadOppScore__Type__c</columns>
+    <columns>LeadOppScore__Value__c</columns>
+    <filterScope>Everything</filterScope>
+    <label>All</label>
+</ListView>
