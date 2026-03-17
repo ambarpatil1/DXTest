@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <help><!-- For example &quot;Hours&quot;, &quot;Credits&quot;, &quot;Units&quot; --></help>
-    <label><!-- Credit Unit Plural --></label>
-    <name>skilljar__Credit_Unit_Plural__c</name>
-</CustomFieldTranslation>

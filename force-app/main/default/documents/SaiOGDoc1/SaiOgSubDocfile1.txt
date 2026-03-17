@@ -1,2 +1,0 @@
-System.debug('Hello World');
-System.debug('Hello Sai');

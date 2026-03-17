@@ -1,2 +1,0 @@
-<apex:page standardController="chttrunfollow__UnfollowRule__c"  extensions="chttrunfollow.UnfollowRunThisRuleButtonController" action="runActiveNonDelayedRules">
-</apex:page>
