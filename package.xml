@@ -2105,6 +2105,7 @@
         <name>Audience</name>
     </types>
     <types>
+        <members>ACOBJTpagecomponent</members>
         <members>ADM_AcceptanceCriteria</members>
         <members>ADM_Assignee_Selector</members>
         <members>ADM_AssignmentRuleCreate</members>
