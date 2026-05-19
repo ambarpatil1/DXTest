@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <help><!-- Date and time at which the student first enrolled in the course. --></help>
-    <label><!-- Enrolled At --></label>
-    <name>skilljar__Enrolled_At__c</name>
-</CustomFieldTranslation>
