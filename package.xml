@@ -7,7 +7,6 @@
         <name>AccountRelationshipShareRule</name>
     </types>
     <types>
-        <members>Test_ALGT</members>
         <members>Testdata_Action_temp</members>
         <members>test</members>
         <name>ActionLinkGroupTemplate</name>
