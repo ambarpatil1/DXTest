@@ -9,7 +9,7 @@
         </botSteps>
         <developerName>check_my_status</developerName>
         <isPlaceholderDialog>false</isPlaceholderDialog>
-        <label>check my status</label>
+        <label>Test bot</label>
         <showInFooterMenu>false</showInFooterMenu>
     </botDialogs>
     <botDialogs>
@@ -19,7 +19,7 @@
         </botSteps>
         <developerName>raise_a_ticket</developerName>
         <isPlaceholderDialog>false</isPlaceholderDialog>
-        <label>raise a ticket</label>
+        <label>raise a tickets</label>
         <showInFooterMenu>false</showInFooterMenu>
     </botDialogs>
     <botDialogs>
