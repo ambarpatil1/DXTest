@@ -5,7 +5,7 @@
     <botDialogs>
         <botSteps>
             <botMessages>
-                <message>Hi! I&apos;m your helpful bot.</message>
+                <message>Hi! I&apos;m your helpful bot....</message>
                 <messageIdentifier>0aeb19f3-0f54-4148-a389-c38386593a4c</messageIdentifier>
             </botMessages>
             <stepIdentifier>3ec2aa38-059c-43e2-b05e-23f253f60aa6</stepIdentifier>
@@ -23,7 +23,7 @@
         </botSteps>
         <developerName>Welcome</developerName>
         <isPlaceholderDialog>false</isPlaceholderDialog>
-        <label>Welcome</label>
+        <label>Welcome to bot</label>
         <showInFooterMenu>false</showInFooterMenu>
     </botDialogs>
     <botDialogs>
@@ -33,7 +33,7 @@
         </botSteps>
         <developerName>Main_Menu</developerName>
         <isPlaceholderDialog>false</isPlaceholderDialog>
-        <label>Main Menu</label>
+        <label>Main Menu -</label>
         <showInFooterMenu>false</showInFooterMenu>
     </botDialogs>
     <botDialogs>
