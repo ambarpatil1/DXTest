@@ -5,7 +5,7 @@
         <botDialogs>
             <botSteps>
                 <botMessages>
-                    <message>diag2</message>
+                    <message>diag2a</message>
                     <messageIdentifier>7eba75ee-897a-f0f8-95d9-c9457de0ec8a</messageIdentifier>
                 </botMessages>
                 <stepIdentifier>e48a9dda-e774-46df-93f8-12cdf4a54459</stepIdentifier>
