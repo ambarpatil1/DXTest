@@ -5,7 +5,7 @@
     <botDialogs>
         <botSteps>
             <botMessages>
-                <message>Hi, I&apos;m SaiTest1, a digital assistan.test1</message>
+                <message>Hi,   I&apos;m SaiTest1, a digital assistan.test1</message>
                 <messageIdentifier>24245253-5dd3-4a07-aa95-4c3498ed69ff</messageIdentifier>
             </botMessages>
             <stepIdentifier>6c3e3ab3-4d88-4deb-bbec-2a00e5d91c76</stepIdentifier>
@@ -23,7 +23,7 @@
         </botSteps>
         <developerName>Welcome</developerName>
         <isPlaceholderDialog>false</isPlaceholderDialog>
-        <label>Welcome</label>
+        <label>Welcome to bot</label>
         <mlIntent>Welcome</mlIntent>
         <mlIntentTrainingEnabled>true</mlIntentTrainingEnabled>
         <showInFooterMenu>false</showInFooterMenu>
