@@ -9,8 +9,8 @@
         </botSteps>
         <developerName>TestItem1</developerName>
         <isPlaceholderDialog>false</isPlaceholderDialog>
-        <label>TestItem1</label>
-        <mlIntent>TestItem1</mlIntent>
+        <label>TestItem3</label>
+        <mlIntent>TestItem3</mlIntent>
         <mlIntentTrainingEnabled>true</mlIntentTrainingEnabled>
         <showInFooterMenu>false</showInFooterMenu>
     </botDialogs>
