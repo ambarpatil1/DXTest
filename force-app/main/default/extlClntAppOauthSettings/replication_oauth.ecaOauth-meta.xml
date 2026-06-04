@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExtlClntAppOauthSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+    <commaSeparatedOauthScopes>Basic, Api, Web, Full, RefreshToken</commaSeparatedOauthScopes>
+    <externalClientApplication>replication</externalClientApplication>
+    <isFirstPartyAppEnabled>false</isFirstPartyAppEnabled>
+    <label>replication_oauth</label>
+    <oauthLink>00DO1000007lEvR:888O1000000PUUL</oauthLink>
+</ExtlClntAppOauthSettings>

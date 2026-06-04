@@ -1,0 +1,30 @@
+<template>
+    <lightning-card title={cardTitle} icon-name="utility:beacon">
+        <div class="slds-p-horizontal_medium slds-p-bottom_medium">
+            <p class="slds-text-heading_small slds-m-bottom_small">
+                {message}
+            </p>
+
+            <p class="slds-text-body_regular slds-m-bottom_medium">
+                This Lightning Web Component is deployed and rendering correctly.
+            </p>
+
+            <lightning-badge label={statusLabel}></lightning-badge>
+
+            <div class="slds-m-top_medium">
+                <lightning-button
+                    label="Click test"
+                    title="Click test"
+                    onclick={handleClick}
+                    variant="brand">
+                </lightning-button>
+            </div>
+
+            <template if:true={clicked}>
+                <p class="slds-m-top_medium success-message">
+                    Button click handled successfully.
+                </p>
+            </template>
+        </div>
+    </lightning-card>
+</template>

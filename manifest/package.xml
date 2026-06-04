@@ -235,6 +235,7 @@
         <members>AccountClass</members>
         <members>AccountListController</members>
         <members>AccountManager</members>
+        <members>AccountService</members>
         <members>AccountTriggerHandler</members>
         <members>Acls111Jun23</members>
         <members>ActnrClass2</members>
@@ -244,6 +245,8 @@
         <members>Ann</members>
         <members>ApexPmdDestrction</members>
         <members>Apicls2</members>
+        <members>AppointmentHelper</members>
+        <members>AppointmentHelperTest</members>
         <members>Apr001Test1</members>
         <members>Apr001Test1testclass</members>
         <members>Apr002Test1</members>
@@ -413,6 +416,8 @@
         <members>May26classtest1</members>
         <members>May26classtest2</members>
         <members>May26classtest3</members>
+        <members>MergeConflictTestDataGenerator</members>
+        <members>MergeConflictTestDataGeneratorTest</members>
         <members>MicrobatchSelfRegController</members>
         <members>MicrobatchSelfRegControllerTest</members>
         <members>MyApexClass</members>
@@ -447,6 +452,7 @@
         <members>OpportunityManager</members>
         <members>OrcaCaseTimer__CloudOrcaCaseTimerCont</members>
         <members>OrcaCaseTimer__CloudOrcaCaseTimerContTest</members>
+        <members>OrderService</members>
         <members>PPS</members>
         <members>PUlreqcls1</members>
         <members>Pclass1</members>
@@ -2462,6 +2468,7 @@
         <members>sham_App</members>
         <members>skilljar__Skilljar</members>
         <members>skilljar__Skilljar_Lightning</members>
+        <members>standard__AllTabSet</members>
         <members>standard__AppLauncher</members>
         <members>standard__Approvals</members>
         <members>standard__Chatter</members>
@@ -2721,6 +2728,8 @@
         <members>ApprovalWorkItem.ReviewedById</members>
         <members>ApprovalWorkItem.ReviewedDate</members>
         <members>ApprovalWorkItem.Status</members>
+        <members>ArCO1__c.ArField1__c</members>
+        <members>ArCo2__c.Arf1__c</members>
         <members>Asset.AccountId</members>
         <members>Asset.Address</members>
         <members>Asset.AssetLevel</members>
@@ -7361,6 +7370,8 @@
         <members>Apr14_Test1__c</members>
         <members>Apr14_Test2__c</members>
         <members>Ar1__c</members>
+        <members>ArCO1__c</members>
+        <members>ArCo2__c</members>
         <members>Asset</members>
         <members>AssetRelationship</members>
         <members>AssistantProgress</members>
@@ -8481,6 +8492,8 @@
     <types>
         <members>ACR2__c</members>
         <members>ACR3__c</members>
+        <members>ArCO1__c</members>
+        <members>ArCo2__c</members>
         <members>ContactPointPhone_Contact_Point_Phone_La__c</members>
         <members>DLConfigTestObj__c</members>
         <members>DataLoader__c</members>
@@ -9260,7 +9273,10 @@
         <name>ExperienceBundle</name>
     </types>
     <types>
+        <members>NitendraFullCopySandbox</members>
         <members>OauthECA_app1</members>
+        <members>VAULT_QA</members>
+        <members>replication</members>
         <name>ExternalClientApplication</name>
     </types>
     <types>
@@ -9277,19 +9293,31 @@
         <name>ExternalDataSource</name>
     </types>
     <types>
+        <members>NitendraFullCopySandbox_plcy</members>
         <members>OauthECA_app1_plcy</members>
+        <members>VAULT_QA_plcy</members>
+        <members>replication_plcy</members>
         <name>ExtlClntAppConfigurablePolicies</name>
     </types>
     <types>
+        <members>NitendraFullCopySandbox_glbloauth</members>
         <members>OauthECA_app1_glbloauth</members>
+        <members>VAULT_QA_glbloauth</members>
+        <members>replication_glbloauth</members>
         <name>ExtlClntAppGlobalOauthSettings</name>
     </types>
     <types>
+        <members>NitendraFullCopySandbox_oauthPlcy</members>
         <members>OauthECA_app1_oauthPlcy</members>
+        <members>VAULT_QA_oauthPlcy</members>
+        <members>replication_oauthPlcy</members>
         <name>ExtlClntAppOauthConfigurablePolicies</name>
     </types>
     <types>
+        <members>NitendraFullCopySandbox_oauth</members>
         <members>OauthECA_app1_oauth</members>
+        <members>VAULT_QA_oauth</members>
+        <members>replication_oauth</members>
         <name>ExtlClntAppOauthSettings</name>
     </types>
     <types>
@@ -9570,6 +9598,8 @@
         <members>Apr14_Test1__c-Apr14 Test1 Layout</members>
         <members>Apr14_Test2__c-Apr14 Test2 Layout</members>
         <members>Ar1__c-Ar1 Layout</members>
+        <members>ArCO1__c-ArCO1 Layout</members>
+        <members>ArCo2__c-ArCo2 Layout</members>
         <members>Asset-Asset Layout</members>
         <members>Aug12Obj23__c-Aug12Obj1 Layout</members>
         <members>Aug12obj1__c-Aug12obj1 Layout</members>
@@ -10255,6 +10285,7 @@
         <members>sendNowConfirmation</members>
         <members>templatePicker</members>
         <members>templateTile</members>
+        <members>testProbe</members>
         <members>trackUsage</members>
         <members>universalRecordPicker</members>
         <name>LightningComponentBundle</name>
