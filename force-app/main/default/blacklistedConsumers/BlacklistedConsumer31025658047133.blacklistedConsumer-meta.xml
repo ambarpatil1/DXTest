@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BlacklistedConsumer xmlns="http://soap.sforce.com/2006/04/metadata">
+    <blockedByApiWhitelisting>false</blockedByApiWhitelisting>
+    <consumerKey>3MVG99OxTyEMCQ3hPbYgoEV3sKAJdKWCi8TeFhMoHSBrf7OXnOeMNws03zUqPVx9cTEpz1AFZ1uTyFuiWH9i8</consumerKey>
+    <consumerName>Workbench</consumerName>
+    <masterLabel>BlacklistedConsumer31025657764707</masterLabel>
+</BlacklistedConsumer>
