@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSetGroup xmlns="http://soap.sforce.com/2006/04/metadata">
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>JaheerPSG</label>
+    <permissionSets>SPM_FlowCenter_API_Enabled_permission</permissionSets>
+    <permissionSets>SPM_Flow_Center_Modify_All_Data</permissionSets>
+    <permissionSets>SPM_Perm_Set_Label</permissionSets>
+    <permissionSets>Sales_User</permissionSets>
+    <permissionSets>force__ApexGuruStandardPermSet</permissionSets>
+    <permissionSets>force__C2CHeadlessCMSAccessPermSet</permissionSets>
+    <permissionSets>force__CorePricingAdmin</permissionSets>
+    <permissionSets>force__CorePricingDesignTimeUser</permissionSets>
+    <permissionSets>force__CorePricingManager</permissionSets>
+    <permissionSets>force__CorePricingRunTimeUser</permissionSets>
+    <permissionSets>force__HighVelocitySalesCadenceCreatorIncluded</permissionSets>
+    <permissionSets>force__HighVelocitySalesQuickCadenceCreatorIncluded</permissionSets>
+    <permissionSets>force__HighVelocitySalesUserIncluded</permissionSets>
+    <permissionSets>force__SalesCloudEinsteinIncluded</permissionSets>
+    <permissionSets>force__SalesCloudMobileUser</permissionSets>
+    <permissionSets>force__SalesCloudUnlimitedIncluded</permissionSets>
+    <permissionSets>force__SalesConsoleUser</permissionSets>
+    <permissionSets>force__SalesEngagementBasicUser</permissionSets>
+    <permissionSets>force__SalesMeetingsIncluded</permissionSets>
+    <permissionSets>force__SalesUserPsl</permissionSets>
+    <permissionSets>force__SalesforceMeetings</permissionSets>
+    <permissionSets>force__ScaleCenterStandardPS</permissionSets>
+    <permissionSets>force__SeasIndexingPermSet</permissionSets>
+    <permissionSets>force__StandardEinsteinActivityCapturePsl</permissionSets>
+    <permissionSets>sfdcInternalInt__sfdc_scrt2</permissionSets>
+    <status>Updated</status>
+</PermissionSetGroup>
