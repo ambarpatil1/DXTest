@@ -12,6 +12,10 @@
         <name>ActionLinkGroupTemplate</name>
     </types>
     <types>
+        <members>Test_SnapShot</members>
+        <name>AnalyticSnapshot</name>
+    </types>
+    <types>
         <members>test1</members>
         <name>AnimationRule</name>
     </types>

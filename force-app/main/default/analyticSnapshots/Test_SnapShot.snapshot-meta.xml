@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AnalyticSnapshot xmlns="http://soap.sforce.com/2006/04/metadata">
+    <groupColumn>GRAND_SUMMARY</groupColumn>
+    <name>Test SnapShot</name>
+    <runningUser>arm-qa@autorabit.com.keystone</runningUser>
+    <sourceReport>unfiled$public/SampleReportofCases</sourceReport>
+    <targetObject>parent2__c</targetObject>
+</AnalyticSnapshot>
