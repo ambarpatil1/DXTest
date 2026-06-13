@@ -66,6 +66,10 @@
         <members>SiteLoginControllerTest</members>
         <members>SiteRegisterController</members>
         <members>SiteRegisterControllerTest</members>
+        <members>checkclass</members>
+        <members>checkclasstest</members>
+        <members>myHandler</members>
+        <members>testfile</members>
         <name>ApexClass</name>
     </types>
     <types>
