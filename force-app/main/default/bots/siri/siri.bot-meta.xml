@@ -4,6 +4,7 @@
         <label>siri</label>
         <name>siri</name>
     </botMlDomain>
+    <botSource>None</botSource>
     <botUser>saikumar-sb.three@autorabit.com</botUser>
     <contextVariables>
         <dataType>Text</dataType>

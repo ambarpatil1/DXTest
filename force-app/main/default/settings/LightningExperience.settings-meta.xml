@@ -3,6 +3,7 @@
     <activeThemeName>thr1</activeThemeName>
     <enableAccessCheckCrucPref>false</enableAccessCheckCrucPref>
     <enableApiUserLtngOutAccessPref>false</enableApiUserLtngOutAccessPref>
+    <enableAuraBoxcarReductionPref>false</enableAuraBoxcarReductionPref>
     <enableAuraCDNPref>false</enableAuraCDNPref>
     <enableAuraSecStaticResCRUCPref>false</enableAuraSecStaticResCRUCPref>
     <enableDeferRenderingWorkspacePage>true</enableDeferRenderingWorkspacePage>

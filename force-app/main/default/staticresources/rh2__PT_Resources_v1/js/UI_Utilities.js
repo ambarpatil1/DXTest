@@ -5,6 +5,14 @@ function navigateToURL(pageName){
 		window.open(pageName, '_self');	
 }
 
+function showElement(elementId){
+    showModal(true, elementId);
+}
+
+function hideElement(elementId){
+    showModal(false, elementId);
+}
+
 function overridePageMessagesNormalSize(){   
     overridePageMessages('');
 }
@@ -173,12 +181,12 @@ function limitInputCharacters(AllowableCharacters, event) {
 }
 
 function showSettingsModal() {
-    document.getElementById('settingsModal').style.display = 'block';
+    showModal(true, 'settingsModal');
     populateSettingModalOptions();
 }
 
 function closeSettingsModal() {
-    document.getElementById('settingsModal').style.display = 'none';
+    showModal(false, 'settingsModal');
 }
 
 function captureEnterAndBuildList(e, search, searchWhat, searchWhere){

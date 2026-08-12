@@ -3,6 +3,7 @@
     <fullName>rh2__Override__c</fullName>
     <defaultValue>false</defaultValue>
     <deprecated>false</deprecated>
+    <description>If checked, Rollup Helper will not automatically update the record scope value for this object.</description>
     <label>Override</label>
     <trackTrending>false</trackTrending>
     <type>Checkbox</type>

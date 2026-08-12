@@ -1,0 +1,8 @@
+This package includes a third-party library:
+
+Driver.js
+Version: 1.4.0
+Source: https://driverjs.com/ and https://github.com/kamranahmedse/driver.js
+License: MIT
+
+The full license text is provided in LICENSE.txt.

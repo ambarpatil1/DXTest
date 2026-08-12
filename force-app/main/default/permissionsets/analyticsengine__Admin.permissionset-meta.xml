@@ -49,6 +49,18 @@
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
+        <apexClass>analyticsengine__CustomRecordPickerController</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>analyticsengine__EmailPreviewController</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>analyticsengine__EmailPreviewControllerTest</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>analyticsengine__ReleaseAnnouncementController</apexClass>
         <enabled>true</enabled>
     </classAccesses>
@@ -101,6 +113,11 @@
         <enabled>true</enabled>
         <externalCredentialPrincipal>analyticsengine__Report_Sender_Heroku_Authentication-NamedPrincipal</externalCredentialPrincipal>
     </externalCredentialPrincipalAccesses>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>analyticsengine__Report_Sender_Log__c.analyticsengine__Child_Schedule__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
         <field>analyticsengine__Report_Sender_Log__c.analyticsengine__Error_Message__c</field>
@@ -356,7 +373,7 @@
         <modifyAllRecords>false</modifyAllRecords>
         <object>analyticsengine__Secure_File_Config__c</object>
         <viewAllFields>false</viewAllFields>
-        <viewAllRecords>true</viewAllRecords>
+        <viewAllRecords>false</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
         <allowCreate>true</allowCreate>

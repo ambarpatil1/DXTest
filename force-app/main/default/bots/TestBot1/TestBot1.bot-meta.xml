@@ -21,6 +21,7 @@
         </mlSlotClasses>
         <name>TestBot1</name>
     </botMlDomain>
+    <botSource>None</botSource>
     <contextVariables>
         <dataType>Text</dataType>
         <developerName>S1</developerName>

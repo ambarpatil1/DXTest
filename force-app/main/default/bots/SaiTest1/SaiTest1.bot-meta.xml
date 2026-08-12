@@ -8,6 +8,7 @@
         </mlIntents>
         <name>SaiTest1</name>
     </botMlDomain>
+    <botSource>None</botSource>
     <contextVariables>
         <dataType>Text</dataType>
         <developerName>ChatKey</developerName>

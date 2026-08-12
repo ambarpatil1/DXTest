@@ -203,5 +203,7 @@
         <nlpProviderType>EinsteinAi</nlpProviderType>
     </nlpProviders>
     <smallTalkEnabled>false</smallTalkEnabled>
+    <stopRecPrompts>false</stopRecPrompts>
+    <stopWelcomePrompts>false</stopWelcomePrompts>
     <surfacesEnabled>false</surfacesEnabled>
 </BotVersion>

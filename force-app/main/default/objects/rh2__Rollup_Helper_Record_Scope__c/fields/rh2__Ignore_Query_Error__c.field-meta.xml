@@ -3,7 +3,7 @@
     <fullName>rh2__Ignore_Query_Error__c</fullName>
     <defaultValue>false</defaultValue>
     <deprecated>false</deprecated>
-    <description>Check this box to ignore query errors when calculating lookup skew</description>
+    <description>Check this box to ignore query errors when calculating lookup skew.</description>
     <label>Ignore Query Error</label>
     <trackTrending>false</trackTrending>
     <type>Checkbox</type>

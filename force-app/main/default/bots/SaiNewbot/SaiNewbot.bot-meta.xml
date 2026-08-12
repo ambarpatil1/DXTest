@@ -4,6 +4,7 @@
         <label>SaiNewbot</label>
         <name>SaiNewbot</name>
     </botMlDomain>
+    <botSource>None</botSource>
     <contextVariables>
         <dataType>Id</dataType>
         <developerName>ContactId</developerName>

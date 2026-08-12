@@ -49,11 +49,27 @@
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
+        <apexClass>analyticsengine__ConnectedAppService</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>analyticsengine__CustomRecordPickerController</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>analyticsengine__DateUtil</apexClass>
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
         <apexClass>analyticsengine__DateUtilTests</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>analyticsengine__EmailPreviewController</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>analyticsengine__EmailPreviewControllerTest</apexClass>
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
@@ -86,6 +102,18 @@
     </classAccesses>
     <classAccesses>
         <apexClass>analyticsengine__MockHttpResponseGenerator</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>analyticsengine__PreferenceDomainListController</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>analyticsengine__PreferenceLogSettingsController</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>analyticsengine__PreferenceManageUsersController</apexClass>
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
@@ -146,6 +174,10 @@
     </customPermissions>
     <customPermissions>
         <enabled>true</enabled>
+        <name>analyticsengine__Manage_Report_Sender_Settings</name>
+    </customPermissions>
+    <customPermissions>
+        <enabled>true</enabled>
         <name>analyticsengine__Reassign_Scheduled_As_User</name>
     </customPermissions>
     <customPermissions>
@@ -159,6 +191,11 @@
         <enabled>true</enabled>
         <externalCredentialPrincipal>analyticsengine__Report_Sender_Heroku_Authentication-NamedPrincipal</externalCredentialPrincipal>
     </externalCredentialPrincipalAccesses>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>analyticsengine__Report_Sender_Log__c.analyticsengine__Child_Schedule__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
         <field>analyticsengine__Report_Sender_Log__c.analyticsengine__Error_Message__c</field>
@@ -464,6 +501,10 @@
     </tabSettings>
     <tabSettings>
         <tab>analyticsengine__Analytics_Delivery_Engine_Classic</tab>
+        <visibility>Visible</visibility>
+    </tabSettings>
+    <tabSettings>
+        <tab>analyticsengine__Report_Sender_Settings</tab>
         <visibility>Visible</visibility>
     </tabSettings>
     <tabSettings>

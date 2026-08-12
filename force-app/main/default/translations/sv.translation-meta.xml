@@ -1589,8 +1589,60 @@
         <name>agf__Acceptance_Criteria_ErrorMessage_Start</name>
     </customLabels>
     <customLabels>
+        <label><!-- Attachments: Add Report or Dashboard Button --></label>
+        <name>analyticsengine__Attachments_Add_Report_Or_Dashboard</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Attachments: Disabled Reason — Dynamic Filters --></label>
+        <name>analyticsengine__Attachments_Disabled_Dynamic_Filters</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Attachments: Disabled Reason — Secure File Sharing --></label>
+        <name>analyticsengine__Attachments_Disabled_Secure_File_Sharing</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Attachments: Upgrade Modal Body --></label>
+        <name>analyticsengine__Attachments_Upgrade_Modal_Body</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Attachments: Upgrade Modal Title --></label>
+        <name>analyticsengine__Attachments_Upgrade_Modal_Title</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Attachments: Upgrade Modal Upgrade Button --></label>
+        <name>analyticsengine__Attachments_Upgrade_Modal_Upgrade_Button</name>
+    </customLabels>
+    <customLabels>
         <label><!-- Label for the billing portal link. --></label>
         <name>analyticsengine__Billing_Portal</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Generic: Cancel --></label>
+        <name>analyticsengine__Cancel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Domain List: Block List Empty State --></label>
+        <name>analyticsengine__Domain_List_Block_List_Empty_State</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Domain List: Block List Label --></label>
+        <name>analyticsengine__Domain_List_Block_List_Label</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Domain List Description --></label>
+        <name>analyticsengine__Domain_List_Description</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Domain List: Safe List Empty State --></label>
+        <name>analyticsengine__Domain_List_Safe_List_Empty_State</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Domain List: Safe List Label --></label>
+        <name>analyticsengine__Domain_List_Safe_List_Label</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Domain List: Upgrade Title --></label>
+        <name>analyticsengine__Domain_List_Upgrade_Title</name>
     </customLabels>
     <customLabels>
         <label><!-- Org-Wide Email Address not verified --></label>
@@ -1609,8 +1661,200 @@
         <name>analyticsengine__Help_FileName</name>
     </customLabels>
     <customLabels>
+        <label><!-- Insufficient Privileges title --></label>
+        <name>analyticsengine__Insufficient_Privileges_Title</name>
+    </customLabels>
+    <customLabels>
         <label><!-- Invalid Fields Message --></label>
         <name>analyticsengine__Invalid_Fields_Message</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Log Settings Description --></label>
+        <name>analyticsengine__Log_Settings_Description</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Manage Users: Add User Error Message --></label>
+        <name>analyticsengine__Manage_Users_Add_Error</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Manage Users: Add User Success Message --></label>
+        <name>analyticsengine__Manage_Users_Add_Success</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Manage Users: Add User Button --></label>
+        <name>analyticsengine__Manage_Users_Add_User_Button</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Manage Users: Add User Description --></label>
+        <name>analyticsengine__Manage_Users_Add_User_Description</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Manage Users: Add User Title --></label>
+        <name>analyticsengine__Manage_Users_Add_User_Title</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Manage Users: Admin Approval Warning Message --></label>
+        <name>analyticsengine__Manage_Users_Admin_Approval_Warning_Message</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Manage Users: Admin Approval Warning Title --></label>
+        <name>analyticsengine__Manage_Users_Admin_Approval_Warning_Title</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Manage Users: Authorized Users Description --></label>
+        <name>analyticsengine__Manage_Users_Authorized_Users_Description</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Manage Users: Authorized Users Title --></label>
+        <name>analyticsengine__Manage_Users_Authorized_Users_Title</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Manage Users: Connected App Warning Message --></label>
+        <name>analyticsengine__Manage_Users_Connected_App_Warning_Message</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Manage Users: Connected App Warning Title --></label>
+        <name>analyticsengine__Manage_Users_Connected_App_Warning_Title</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Manage Users: Duplicate User Error --></label>
+        <name>analyticsengine__Manage_Users_Duplicate_User</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Manage Users: Edit Role Button --></label>
+        <name>analyticsengine__Manage_Users_Edit_Role_Button</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Manage Users: Edit Role Error --></label>
+        <name>analyticsengine__Manage_Users_Edit_Role_Error</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Manage Users: Edit Role Modal Description --></label>
+        <name>analyticsengine__Manage_Users_Edit_Role_Modal_Description</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Manage Users: Edit Role Modal Title --></label>
+        <name>analyticsengine__Manage_Users_Edit_Role_Modal_Title</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Manage Users: Edit Role No Change --></label>
+        <name>analyticsengine__Manage_Users_Edit_Role_No_Change</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Manage Users: Edit Role Success --></label>
+        <name>analyticsengine__Manage_Users_Edit_Role_Success</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Manage Users: Email Not Verified Badge Label --></label>
+        <name>analyticsengine__Manage_Users_Email_Not_Verified_Label</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Manage Users: Email Verification Help Text --></label>
+        <name>analyticsengine__Manage_Users_Email_Verification_Help_Text</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Manage Users: Email Verified Badge Label --></label>
+        <name>analyticsengine__Manage_Users_Email_Verified_Label</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Manage Users: Insufficient Permissions Error --></label>
+        <name>analyticsengine__Manage_Users_Insufficient_Permissions_Error</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Manage Users: Insufficient Permissions Title --></label>
+        <name>analyticsengine__Manage_Users_Insufficient_Permissions_Title</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Manage Users: No Permission Message --></label>
+        <name>analyticsengine__Manage_Users_No_Permission_Message</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Manage Users: Remove User Confirmation Message --></label>
+        <name>analyticsengine__Manage_Users_Remove_Confirmation_Message</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Manage Users: Remove User Confirmation Title --></label>
+        <name>analyticsengine__Manage_Users_Remove_Confirmation_Title</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Manage Users: Remove User Error Message --></label>
+        <name>analyticsengine__Manage_Users_Remove_Error</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Manage Users: Remove User Success Message --></label>
+        <name>analyticsengine__Manage_Users_Remove_Success</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Manage Users: Remove User Button --></label>
+        <name>analyticsengine__Manage_Users_Remove_User_Button</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Manage Users: Role Help Text --></label>
+        <name>analyticsengine__Manage_Users_Role_Help_Text</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Manage Users: Role Label --></label>
+        <name>analyticsengine__Manage_Users_Role_Label</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Manage Users: Role Placeholder --></label>
+        <name>analyticsengine__Manage_Users_Role_Placeholder</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Manage Users: Search Users Label --></label>
+        <name>analyticsengine__Manage_Users_Search_Users_Label</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Manage Users: Table Column Actions --></label>
+        <name>analyticsengine__Manage_Users_Table_Column_Actions</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Manage Users: Table Column Added --></label>
+        <name>analyticsengine__Manage_Users_Table_Column_Added</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Manage Users: Table Column Authorization Status --></label>
+        <name>analyticsengine__Manage_Users_Table_Column_Authorization_Status</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Manage Users: Table Column Email Verified --></label>
+        <name>analyticsengine__Manage_Users_Table_Column_Email_Verified</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Manage Users: Table Column Last Modified --></label>
+        <name>analyticsengine__Manage_Users_Table_Column_Last_Modified</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Manage Users: Table Column Role --></label>
+        <name>analyticsengine__Manage_Users_Table_Column_Role</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Manage Users: Table Column User --></label>
+        <name>analyticsengine__Manage_Users_Table_Column_User</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Manage Users: Table Empty State --></label>
+        <name>analyticsengine__Manage_Users_Table_Empty_State</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Manage Users: User Help Text --></label>
+        <name>analyticsengine__Manage_Users_User_Help_Text</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Manage Users: User Label --></label>
+        <name>analyticsengine__Manage_Users_User_Label</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Manage Users: User Placeholder --></label>
+        <name>analyticsengine__Manage_Users_User_Placeholder</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Manage Users: Validation - Select Role --></label>
+        <name>analyticsengine__Manage_Users_Validation_Select_Role</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Manage Users: Validation - Select User --></label>
+        <name>analyticsengine__Manage_Users_Validation_Select_User</name>
     </customLabels>
     <customLabels>
         <label><!-- Missing Or Invalid Email --></label>
@@ -1631,6 +1875,34 @@
     <customLabels>
         <label><!-- Message shown when a subscription payment is overdue. --></label>
         <name>analyticsengine__Overdue_Subscription_Message</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Preferences Navigation Section --></label>
+        <name>analyticsengine__Preferences_Nav_Section</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Preferences Tab: Email Domain Restrictions --></label>
+        <name>analyticsengine__Preferences_Tab_Email_Domain_Restrictions</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Preferences Tab: Log Settings --></label>
+        <name>analyticsengine__Preferences_Tab_Log_Settings</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Preferences Tab: Manage Users --></label>
+        <name>analyticsengine__Preferences_Tab_Manage_Users</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Insufficient Privileges message --></label>
+        <name>analyticsengine__Report_Sender_Settings_Insufficient_Privileges_Message</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Generic: Save --></label>
+        <name>analyticsengine__Save</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Secure Delivery: Download URL Not Found --></label>
+        <name>analyticsengine__Secure_Delivery_Download_Url_Not_Found</name>
     </customLabels>
     <customLabels>
         <label><!-- Secure Delivery: Email Body --></label>
@@ -1699,6 +1971,14 @@
     <customLabels>
         <label><!-- Unsupported Search Object --></label>
         <name>analyticsengine__Unsupported_Search_Object</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Generic: View Setup Instructions Link Text --></label>
+        <name>analyticsengine__View_Setup_Instructions</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- You do not have permission to modify settings --></label>
+        <name>analyticsengine__You_Do_Not_Have_Permission_To_Modify_Settings</name>
     </customLabels>
     <customLabels>
         <label><!-- b1 --></label>
@@ -1869,6 +2149,10 @@
         <name>rh2__About</name>
     </customLabels>
     <customLabels>
+        <label><!-- About Manually Running Rollups --></label>
+        <name>rh2__AboutManuallyRunningRollups</name>
+    </customLabels>
+    <customLabels>
         <label><!-- Action --></label>
         <name>rh2__Action</name>
     </customLabels>
@@ -1905,6 +2189,10 @@
         <name>rh2__AddRemoveRealtime</name>
     </customLabels>
     <customLabels>
+        <label><!-- Add to all --></label>
+        <name>rh2__AddToAll</name>
+    </customLabels>
+    <customLabels>
         <label><!-- Add to rollup group --></label>
         <name>rh2__AddToRollupGroup</name>
     </customLabels>
@@ -1921,8 +2209,16 @@
         <name>rh2__AdjustFieldAccessibility</name>
     </customLabels>
     <customLabels>
+        <label><!-- Adjust Object Record Scope --></label>
+        <name>rh2__AdjustObjectRecordScope</name>
+    </customLabels>
+    <customLabels>
         <label><!-- Adjust search term --></label>
         <name>rh2__AdjustSearch</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Admin Guide --></label>
+        <name>rh2__AdminGuide</name>
     </customLabels>
     <customLabels>
         <label><!-- Advanced Configuration --></label>
@@ -1957,12 +2253,20 @@
         <name>rh2__All</name>
     </customLabels>
     <customLabels>
+        <label><!-- The Rollup Helper All Access permission set is not assigned to your user --></label>
+        <name>rh2__AllAccessPermissionSetMissing</name>
+    </customLabels>
+    <customLabels>
         <label><!-- All Active Rollups --></label>
         <name>rh2__AllActiveRollups</name>
     </customLabels>
     <customLabels>
         <label><!-- All active rollups are currently scheduled. --></label>
         <name>rh2__AllActiveRollupsAreScheduled</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- All Rollup Helper exceptions will be deleted --></label>
+        <name>rh2__AllRhExceptionsWillBeDeleted</name>
     </customLabels>
     <customLabels>
         <label><!-- All Rollup Settings --></label>
@@ -2117,6 +2421,10 @@
         <name>rh2__AvailableTargetFields</name>
     </customLabels>
     <customLabels>
+        <label><!-- Available Target Objects --></label>
+        <name>rh2__AvailableTargetObjects</name>
+    </customLabels>
+    <customLabels>
         <label><!-- Average --></label>
         <name>rh2__Average</name>
     </customLabels>
@@ -2159,6 +2467,10 @@
     <customLabels>
         <label><!-- Cannot Calculate Lookup Skew On ContentDocumentLink --></label>
         <name>rh2__CDLLookupSkewCalculation</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Calculate Rollup --></label>
+        <name>rh2__CalculateRollup</name>
     </customLabels>
     <customLabels>
         <label><!-- Calculating Number Of Parent Records --></label>
@@ -2273,6 +2585,10 @@
         <name>rh2__ClickBackToReturn</name>
     </customLabels>
     <customLabels>
+        <label><!-- Configure Retry Rollups Job --></label>
+        <name>rh2__ClickHereToScheduleRetryRollupsJob</name>
+    </customLabels>
+    <customLabels>
         <label><!-- to uninstall the Apex Trigger and Apex Class for this child object. --></label>
         <name>rh2__ClickRemoveToUninstall</name>
     </customLabels>
@@ -2335,6 +2651,10 @@
     <customLabels>
         <label><!-- Contact Support --></label>
         <name>rh2__ContactSupport</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Convert --></label>
+        <name>rh2__Convert</name>
     </customLabels>
     <customLabels>
         <label><!-- Convert DLRS Settings To Rollups --></label>
@@ -2525,8 +2845,28 @@
         <name>rh2__Delete</name>
     </customLabels>
     <customLabels>
+        <label><!-- Delete All Rollup Helper Exceptions --></label>
+        <name>rh2__DeleteAllRhExceptions</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Delete By Date --></label>
+        <name>rh2__DeleteByDate</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Delete By Rollup --></label>
+        <name>rh2__DeleteByRollup</name>
+    </customLabels>
+    <customLabels>
         <label><!-- Delete Confirmation --></label>
         <name>rh2__DeleteConfirmation</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Delete Exceptions --></label>
+        <name>rh2__DeleteExceptions</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Delete Rollup Helper exceptions that occurred before --></label>
+        <name>rh2__DeleteExceptionsThatOccurredBefore</name>
     </customLabels>
     <customLabels>
         <label><!-- Delete Group --></label>
@@ -2535,6 +2875,10 @@
     <customLabels>
         <label><!-- Delete Rollups In Group --></label>
         <name>rh2__DeleteRollups</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Delete Selected Exceptions --></label>
+        <name>rh2__DeleteSelectedExceptions</name>
     </customLabels>
     <customLabels>
         <label><!-- Delete Selected Filters --></label>
@@ -2769,6 +3113,10 @@
         <name>rh2__ExceptionsFound</name>
     </customLabels>
     <customLabels>
+        <label><!-- Exceptions Ran During Last Retry Job --></label>
+        <name>rh2__ExceptionsRanDuringLastRetry</name>
+    </customLabels>
+    <customLabels>
         <label><!-- Existing --></label>
         <name>rh2__Existing</name>
     </customLabels>
@@ -2949,6 +3297,10 @@
         <name>rh2__ForceAsynchronousRequires</name>
     </customLabels>
     <customLabels>
+        <label><!-- Foreign Key --></label>
+        <name>rh2__ForeignKey</name>
+    </customLabels>
+    <customLabels>
         <label><!-- foreign key source object enabled for real-time --></label>
         <name>rh2__ForeignKeyEnabledForRealtime</name>
     </customLabels>
@@ -3025,6 +3377,10 @@
         <name>rh2__HelpText</name>
     </customLabels>
     <customLabels>
+        <label><!-- Help Videos --></label>
+        <name>rh2__HelpVideos</name>
+    </customLabels>
+    <customLabels>
         <label><!-- here --></label>
         <name>rh2__Here</name>
     </customLabels>
@@ -3093,12 +3449,20 @@
         <name>rh2__IfCheckedUniqueCount</name>
     </customLabels>
     <customLabels>
+        <label><!-- If checked, Rollup Helper will only include unique source records by field --></label>
+        <name>rh2__IfCheckedUniqueSum</name>
+    </customLabels>
+    <customLabels>
         <label><!-- Checks the target checkbox if a source record exists --></label>
         <name>rh2__IfCheckedUseChildExistsForCheckboxRollup</name>
     </customLabels>
     <customLabels>
         <label><!-- If checked, Rollup Helper will not roll up when run in realtime. --></label>
         <name>rh2__IfCheckedWillNotRollupInRealtime</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- If checked, will override the object level forced async setting --></label>
+        <name>rh2__IfCheckedWillOverrideObjectLevelForcedAsync</name>
     </customLabels>
     <customLabels>
         <label><!-- If checked, Rollup Helper will roll up from archived and non-archived records. --></label>
@@ -3147,6 +3511,10 @@
     <customLabels>
         <label><!-- Ignore All --></label>
         <name>rh2__IgnoreAll</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Ignore Query Error --></label>
+        <name>rh2__IgnoreQueryError</name>
     </customLabels>
     <customLabels>
         <label><!-- Import Retry Failed --></label>
@@ -3365,6 +3733,10 @@
         <name>rh2__Manual</name>
     </customLabels>
     <customLabels>
+        <label><!-- manual rollup groups --></label>
+        <name>rh2__ManualRollupGroups</name>
+    </customLabels>
+    <customLabels>
         <label><!-- Manual Run Only --></label>
         <name>rh2__ManualRunOnly</name>
     </customLabels>
@@ -3457,6 +3829,10 @@
         <name>rh2__New</name>
     </customLabels>
     <customLabels>
+        <label><!-- New Exceptions Created After Last Retry --></label>
+        <name>rh2__NewExceptionsCreatedAfterRetry</name>
+    </customLabels>
+    <customLabels>
         <label><!-- New Line --></label>
         <name>rh2__NewLine</name>
     </customLabels>
@@ -3493,6 +3869,14 @@
         <name>rh2__NoAvailableTargetFields</name>
     </customLabels>
     <customLabels>
+        <label><!-- No exceptions created after the last Retry Rollup Job were found. --></label>
+        <name>rh2__NoExceptionsCreatedSinceLastJob</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- No exceptions ran during the last Retry Rollup Job were found. --></label>
+        <name>rh2__NoExceptionsDuringLastJobFound</name>
+    </customLabels>
+    <customLabels>
         <label><!-- No exceptions were found. --></label>
         <name>rh2__NoExceptionsFound</name>
     </customLabels>
@@ -3513,7 +3897,7 @@
         <name>rh2__NoQueueItemsWereFound</name>
     </customLabels>
     <customLabels>
-        <label><!-- No records reported by this exception. --></label>
+        <label><!-- No records found in this exception. --></label>
         <name>rh2__NoRecordsReported</name>
     </customLabels>
     <customLabels>
@@ -3541,6 +3925,10 @@
         <name>rh2__NoTargetRecordsFound</name>
     </customLabels>
     <customLabels>
+        <label><!-- Not Active --></label>
+        <name>rh2__NotActive</name>
+    </customLabels>
+    <customLabels>
         <label><!-- Not Enough Asynchronous Jobs Available --></label>
         <name>rh2__NotEnoughAsyncJobs</name>
     </customLabels>
@@ -3563,6 +3951,10 @@
     <customLabels>
         <label><!-- Notification Email (Optional) --></label>
         <name>rh2__NotificationEmailOptional</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Notification Settings --></label>
+        <name>rh2__NotificationSettings</name>
     </customLabels>
     <customLabels>
         <label><!-- Nulls Count As Zero --></label>
@@ -3625,6 +4017,10 @@
         <name>rh2__OneOrMoreInvalidFilterReferences</name>
     </customLabels>
     <customLabels>
+        <label><!-- Only Delete Exceptions For --></label>
+        <name>rh2__OnlyDeleteExceptionsFor</name>
+    </customLabels>
+    <customLabels>
         <label><!-- Open the Settings pane to set the Running User. --></label>
         <name>rh2__OpenTheSettingsPane</name>
     </customLabels>
@@ -3653,8 +4049,20 @@
         <name>rh2__OurSupportTeam</name>
     </customLabels>
     <customLabels>
+        <label><!-- Override --></label>
+        <name>rh2__Override</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Override Object Level Forced Async --></label>
+        <name>rh2__OverrideObjectLevelForcedAsync</name>
+    </customLabels>
+    <customLabels>
         <label><!-- Overwrite Existing Target Field Information --></label>
         <name>rh2__OverwriteExistingTargetField</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Overwrite Settings --></label>
+        <name>rh2__OverwriteSettings</name>
     </customLabels>
     <customLabels>
         <label><!-- Page --></label>
@@ -3679,6 +4087,10 @@
     <customLabels>
         <label><!-- Parent Filter (Optional) --></label>
         <name>rh2__ParentFilterOptional</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Parent Filter Settings --></label>
+        <name>rh2__ParentFilterSettings</name>
     </customLabels>
     <customLabels>
         <label><!-- Partial Real Time --></label>
@@ -3737,6 +4149,10 @@
         <name>rh2__PleaseNoteExceptionMonitor</name>
     </customLabels>
     <customLabels>
+        <label><!-- Please note that exceptions may still exist --></label>
+        <name>rh2__PleaseNoteExceptionsMayStillExist</name>
+    </customLabels>
+    <customLabels>
         <label><!-- Field Level Security . --></label>
         <name>rh2__PleaseNoteFieldSecurity</name>
     </customLabels>
@@ -3751,6 +4167,10 @@
     <customLabels>
         <label><!-- Please Note: It is recommended to run all tests during trigger deployments. --></label>
         <name>rh2__PleaseNoteItIsRecommended</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Please note: New exceptions displayed may have been created --></label>
+        <name>rh2__PleaseNoteNewExceptions</name>
     </customLabels>
     <customLabels>
         <label><!-- Please note: Only characters are allowed for custom delimiters --></label>
@@ -3779,6 +4199,10 @@
     <customLabels>
         <label><!-- Please select a rollup target object from the list to view exceptions --></label>
         <name>rh2__PleaseSelectARollupTargetObject</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Please select a target object above to view related exceptions. --></label>
+        <name>rh2__PleaseSelectTargetObjectToViewRelated</name>
     </customLabels>
     <customLabels>
         <label><!-- Please update the rollup to ensure all objects and fields exist --></label>
@@ -3825,7 +4249,7 @@
         <name>rh2__PreviewRollupsIsNotAvailable</name>
     </customLabels>
     <customLabels>
-        <label><!-- PreviewRollupsRunsSynchronously --></label>
+        <label><!-- This action runs synchronously, and is subject to lower governor limits --></label>
         <name>rh2__PreviewRollupsRunsSynchronously</name>
     </customLabels>
     <customLabels>
@@ -4005,8 +4429,16 @@
         <name>rh2__Retry</name>
     </customLabels>
     <customLabels>
+        <label><!-- Retry All Object Types? --></label>
+        <name>rh2__RetryAllObjectTypes</name>
+    </customLabels>
+    <customLabels>
         <label><!-- Retry Import --></label>
         <name>rh2__RetryImport</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Retry Rollup Configuration --></label>
+        <name>rh2__RetryRollupConfiguration</name>
     </customLabels>
     <customLabels>
         <label><!-- Risk Level --></label>
@@ -4033,7 +4465,7 @@
         <name>rh2__RollupDeactivated</name>
     </customLabels>
     <customLabels>
-        <label><!-- The selected rollup has encountered an exception --></label>
+        <label><!-- This rollup was deactivated due to an exception --></label>
         <name>rh2__RollupExceptionFound</name>
     </customLabels>
     <customLabels>
@@ -4213,7 +4645,7 @@
         <name>rh2__RunningAs</name>
     </customLabels>
     <customLabels>
-        <label><!-- Running this rollup will take an estimated: --></label>
+        <label><!-- Running this rollup will take an estimated --></label>
         <name>rh2__RunningThisRollup</name>
     </customLabels>
     <customLabels>
@@ -4289,12 +4721,28 @@
         <name>rh2__ScheduledJobs</name>
     </customLabels>
     <customLabels>
+        <label><!-- Scheduled Run Time: --></label>
+        <name>rh2__ScheduledRunTime</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Schedules --></label>
+        <name>rh2__Schedules</name>
+    </customLabels>
+    <customLabels>
         <label><!-- Scheduling a rollup with real-time enabled is not necessary --></label>
         <name>rh2__SchedulingARollupWithRealtime</name>
     </customLabels>
     <customLabels>
+        <label><!-- Enter text to search filters --></label>
+        <name>rh2__SearchFilters</name>
+    </customLabels>
+    <customLabels>
         <label><!-- Search text placeholder --></label>
         <name>rh2__SearchPlaceholder</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Enter text to search rollup schedules --></label>
+        <name>rh2__SearchSchedules</name>
     </customLabels>
     <customLabels>
         <label><!-- Select --></label>
@@ -4397,6 +4845,10 @@
         <name>rh2__SelectWhereRollupsReside</name>
     </customLabels>
     <customLabels>
+        <label><!-- Selected Queues --></label>
+        <name>rh2__SelectedQueueItems</name>
+    </customLabels>
+    <customLabels>
         <label><!-- The selected rollup logic cannot be used --></label>
         <name>rh2__SelectedRollupLogicCannotBeUsed</name>
     </customLabels>
@@ -4407,6 +4859,10 @@
     <customLabels>
         <label><!-- Selected Source Fields --></label>
         <name>rh2__SelectedSourceFields</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Selected Target Objects --></label>
+        <name>rh2__SelectedTargetObjects</name>
     </customLabels>
     <customLabels>
         <label><!-- selective --></label>
@@ -4435,6 +4891,10 @@
     <customLabels>
         <label><!-- Settings --></label>
         <name>rh2__Settings</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Setup --></label>
+        <name>rh2__Setup</name>
     </customLabels>
     <customLabels>
         <label><!-- Share --></label>
@@ -4541,6 +5001,10 @@
         <name>rh2__SubmittedBy</name>
     </customLabels>
     <customLabels>
+        <label><!-- Success --></label>
+        <name>rh2__Success</name>
+    </customLabels>
+    <customLabels>
         <label><!-- Sum --></label>
         <name>rh2__Sum</name>
     </customLabels>
@@ -4605,12 +5069,24 @@
         <name>rh2__TheFieldWhereRollupInfo</name>
     </customLabels>
     <customLabels>
+        <label><!-- The job is currently --></label>
+        <name>rh2__TheJobIsCurrently</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- The job last ran on --></label>
+        <name>rh2__TheJobLastRanOn</name>
+    </customLabels>
+    <customLabels>
         <label><!-- The object where the rollup information is being stored no longer exists. --></label>
         <name>rh2__TheObjectWhereRollupInfo</name>
     </customLabels>
     <customLabels>
         <label><!-- The Rollup Helper All Access permission set, which allows rollups to be exported --></label>
         <name>rh2__TheRollupHelperAllAccess</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- The scheduled job created by this page will attempt to retry rollups --></label>
+        <name>rh2__TheScheduledRetryJobWillAttempt</name>
     </customLabels>
     <customLabels>
         <label><!-- Please Note: Inline edits in progress --></label>
@@ -4713,6 +5189,14 @@
         <name>rh2__ToUpgradeRollupHelper</name>
     </customLabels>
     <customLabels>
+        <label><!-- to view Rollup Helper exceptions, or --></label>
+        <name>rh2__ToViewRollupHelperExceptions</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- to view the error(s) --></label>
+        <name>rh2__ToViewTheErrors</name>
+    </customLabels>
+    <customLabels>
         <label><!-- Toggle Active --></label>
         <name>rh2__ToggleActive</name>
     </customLabels>
@@ -4735,6 +5219,18 @@
     <customLabels>
         <label><!-- Trim Trailing Delimiters --></label>
         <name>rh2__TrimTrailingDelimiters</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Troubleshooting Tips --></label>
+        <name>rh2__TroubleshootingTips</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Truncate Text --></label>
+        <name>rh2__TruncateText</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Information about truncating text rollups --></label>
+        <name>rh2__TruncationInformation</name>
     </customLabels>
     <customLabels>
         <label><!-- Type: --></label>
@@ -4813,6 +5309,14 @@
         <name>rh2__UniqueCount</name>
     </customLabels>
     <customLabels>
+        <label><!-- Unique Field --></label>
+        <name>rh2__UniqueField</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Unique Sum --></label>
+        <name>rh2__UniqueSum</name>
+    </customLabels>
+    <customLabels>
         <label><!-- Unique Values Only --></label>
         <name>rh2__UniqueValuesOnly</name>
     </customLabels>
@@ -4827,6 +5331,10 @@
     <customLabels>
         <label><!-- Update --></label>
         <name>rh2__Update</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Update Links --></label>
+        <name>rh2__UpdateLinks</name>
     </customLabels>
     <customLabels>
         <label><!-- Update Sub-Filter Logic --></label>

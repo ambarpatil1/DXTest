@@ -16,6 +16,7 @@
     <navType>Standard</navType>
     <setupExperience>all</setupExperience>
     <tabs>analyticsengine__Analytics_Delivery_Engine</tabs>
+    <tabs>analyticsengine__Report_Sender_Settings</tabs>
     <tabs>standard-report</tabs>
     <tabs>standard-Dashboard</tabs>
     <uiType>Lightning</uiType>

@@ -43,6 +43,7 @@
         </mlSlotClasses>
         <name>MyBot1_Copy</name>
     </botMlDomain>
+    <botSource>None</botSource>
     <botUser>saikumar-sb.three@autorabit.com</botUser>
     <description>Test A bot from scratch.</description>
     <label>MyBot1 Copy</label>
